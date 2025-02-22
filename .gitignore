@@ -1,0 +1,14 @@
+.idea/
+target/
+generated-resources/
+*.iml
+*.ipr
+*.iws
+dependency-reduced-pom.xml
+.DS_Store
+.settings/
+.checkstyle
+.classpath
+.project
+bazel-*
+.ijwb/
